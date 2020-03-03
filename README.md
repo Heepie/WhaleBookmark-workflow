@@ -1,8 +1,28 @@
-# WhaleBookmark-workflow
+# WhaleBookmark-workflow :tada:
 This is Alfred Workflow for searching the 'Whale' browser's bookmark
+Alfred already support `Chrome`, `Safari`. But `Whale` browser is NOT supported.
+That's why I developed
 
-# Usage
+Below is my vlog (but just korean version :cry:)
+- [1vlog](https://heepie.me/427)
+- [2vlog](https://heepie.me/428)
+- [3vlog](https://heepie.me/431)
+
+If you discover improvement or good ideas, contact me (gheepie@gmail.com, https://heepie.me)
+
+# Demo
 bm `query`
+
+![demo](https://github.com/Heepie/WhaleBookmark-workflow/blob/master/demo.gif)
+
+# Setup
+download version [1.0.0](https://github.com/Heepie/WhaleBookmark-workflow/raw/master/Whale%20Bookmarks.alfredworkflow)
+
+![setup_guide](https://github.com/Heepie/WhaleBookmark-workflow/blob/master/setup_guide.png)
+
+Step1. import the workflow
+
+Step2. Set the whale bookmark path if need (Optional)
 
 # License
 ```
