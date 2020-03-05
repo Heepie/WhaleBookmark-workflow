@@ -1,5 +1,6 @@
 # WhaleBookmark-workflow :tada:
-This is Alfred Workflow for searching the 'Whale' browser's bookmark
+This is Alfred Workflow for searching the 'Whale' browser's bookmark.
+
 Alfred already support `Chrome`, `Safari`. But `Whale` browser is NOT supported.
 That's why I developed
 
